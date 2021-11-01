@@ -1,6 +1,9 @@
 /*
 https://leetcode.com/problems/max-consecutive-ones/
 Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+My Submission
+https://leetcode.com/submissions/detail/580510324/
 */
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
